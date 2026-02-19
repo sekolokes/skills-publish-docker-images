@@ -23,3 +23,5 @@ permissions:
         run: |
           docker build . --tag ghcr.io/sekolokes/skills-publish-docker-images/stackoverflown:main
           docker push ghcr.io/sekolokes/skills-publish-docker-images/stackoverflown:main
+
+          
